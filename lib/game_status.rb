@@ -9,5 +9,6 @@ WIN_COMBINATIONS = [
   [3,4,5],  # Middle row
   [6,7,8], #Bottom row
   [0,3,6] # Left column
+  [2,5,8]
   
 ]
